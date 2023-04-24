@@ -3,7 +3,7 @@ package history_test
 import (
 	"context"
 	"github.com/stretchr/testify/require"
-	history "github.com/vcraescu/gorm-history/v2"
+	history "github.com/helsinki-systems/gorm-history"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 	"testing"

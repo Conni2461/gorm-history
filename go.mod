@@ -1,4 +1,4 @@
-module github.com/vcraescu/gorm-history/v2
+module github.com/helsinki-systems/gorm-history
 
 go 1.13
 
